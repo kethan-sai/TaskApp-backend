@@ -2,7 +2,7 @@
 Backend for Task-App with mongoose and MongoDB
 
 # Note
-Please runt hsi along side the frontend Task app.
+Please run this along side the frontend Task app.
 
 # Run
 Use: node server.js
